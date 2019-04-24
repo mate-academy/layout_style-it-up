@@ -24,9 +24,7 @@ div {
   background-color: #ffa500;
 }
 
-.important:hover,
-.interesting:hover,
-.surprising:hover {
+div:hover {
   height: 200px;
 }
 
