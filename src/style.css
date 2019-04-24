@@ -12,22 +12,22 @@ div:hover {
   height: 200px;
 }
 
-div.important {
-  background: red;
+.important {
+  background-color: red;
 }
 
-div.interesting {
-  background: green;
+.interesting {
+  background-color: green;
 }
 
-div.surprising {
-  background: orange;
+.surprising {
+  background-color: orange;
 }
 
 #header {
-  background: blue;
+  background-color: blue;
 }
 
 #footer {
-  background: black;
+  background-color: black;
 }
