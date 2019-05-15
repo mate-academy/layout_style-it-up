@@ -1,6 +1,6 @@
-### [Demo link](https://onefun1.github.io/layout_product-cards/)
+### [Demo link](https://onefun1.github.io/layout_style-it-up/)
 
-### [Test report](https://onefun1.github.io/layout_product-cards/report/html_report/)
+### [Test report](https://onefun1.github.io/layout_style-it-up/report/html_report/)
 
 # Style it up
 
