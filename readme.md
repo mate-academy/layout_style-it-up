@@ -27,5 +27,5 @@ page. Place the blocks so that they are horizontally centered on the page.
 
 **Result**
 
-- [UPDATE DEMO LINK](https://<your_account>.github.io/<repo_name>/)
-- [UPDATE TEST REPORT LINK](https://<your_account>.github.io/<repo_name>/report/html_report/)
+- [UPDATE DEMO LINK](https://artem-kumskov.github.io/layout_style-it-up/)
+- [UPDATE TEST REPORT LINK](https://github.com/Artem-Kumskov/layout_style-it-up/tree/gh-pages/report/html_report)
