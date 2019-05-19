@@ -1,0 +1,58 @@
+#header {
+  width: 300px;
+  height: 100px;
+  background: #00f;
+  margin: auto;
+}
+
+.important {
+  width: 300px;
+  height: 100px;
+  background: #f00;
+  margin: auto;
+}
+
+.interesting {
+  width: 300px;
+  height: 100px;
+  background: #008000;
+  margin: auto;
+}
+
+.surprising {
+  width: 300px;
+  height: 100px;
+  background: #ffa500;
+  margin: auto;
+}
+
+#footer {
+  width: 300px;
+  height: 100px;
+  background: #000;
+  margin: auto;
+}
+
+#header:hover {
+  height: 200px;
+}
+
+.important:hover {
+  height: 200px;
+}
+
+.interesting:hover {
+  height: 200px;
+}
+
+.surprising:hover {
+  height: 200px;
+}
+
+#footer:hover {
+  height: 200px;
+}
+
+body {
+  margin: 0; /* Убираем отступы */
+}
