@@ -6,6 +6,7 @@ div {
   width: 300px;
   height: 100px;
   margin: 0 auto;
+  transition: height 0.5s;
 }
 
 #header {
