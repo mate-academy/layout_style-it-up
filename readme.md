@@ -27,5 +27,5 @@ page. Place the blocks so that they are horizontally centered on the page.
 
 **Result**
 
-- [UPDATE DEMO LINK](https://<your_account>.github.io/<repo_name>/)
-- [UPDATE TEST REPORT LINK](https://<your_account>.github.io/<repo_name>/report/html_report/)
+- [ DEMO LINK](https://github.com/Igori4/layout_style-it-up.git)
+- [ TEST REPORT LINK](https://Igori4.github.io/layout_style-it-up/report/html_report/)
