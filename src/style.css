@@ -1,0 +1,33 @@
+#header {
+  background: #00f;
+}
+
+.important {
+  background: #f00;
+}
+
+.interesting {
+  background: #008000;
+}
+
+.surprising {
+  background: #ffa500;
+}
+
+#footer {
+  background: #000;
+}
+
+body {
+  margin: 0; /* Убираем отступы */
+}
+
+div {
+  width: 300px;
+  height: 100px;
+  margin: auto;
+}
+
+div:hover {
+  height: 200px;
+}
