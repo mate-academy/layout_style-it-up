@@ -30,15 +30,7 @@ body {
   margin: 0 auto;
 }
 
-.important:hover {
-  height: 200px;
-}
-
-.interesting:hover {
-  height: 200px;
-}
-
-.surprising:hover {
+div:hover {
   height: 200px;
 }
 
