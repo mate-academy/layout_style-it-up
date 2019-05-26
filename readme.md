@@ -27,5 +27,5 @@ page. Place the blocks so that they are horizontally centered on the page.
 
 **Result**
 
-- [UPDATE DEMO LINK](https://<your_account>.github.io/<repo_name>/)
-- [UPDATE TEST REPORT LINK](https://<your_account>.github.io/<repo_name>/report/html_report/)
+- [Demo link](https://earthhuman41.github.io/layout_style-it-up/)
+- [Report link](https://earthhuman41.github.io/layout_style-it-up/report/html_report/)
