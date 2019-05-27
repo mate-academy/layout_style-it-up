@@ -1,0 +1,30 @@
+#header {
+  background: #00f;
+}
+
+* {
+  width: 300px;
+  height: 100px;
+  margin: auto;
+}
+
+div:hover {
+  height: 200px;
+  background: #f00;
+}
+
+.important {
+  background: #f00;
+}
+
+.surprising {
+  background: #ffa500;
+}
+
+#footer {
+  background-color: black;
+}
+
+.interesting {
+  background: green;
+}
