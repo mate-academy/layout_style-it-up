@@ -1,5 +1,5 @@
-* {
-  margin: 0 auto;
+body {
+  margin: 0;
 }
 
 #header {
@@ -22,23 +22,12 @@
   background: black;
 }
 
-.important,
-.interesting,
-.surprising,
-#header,
-#footer {
+div {
+  margin: auto;
   width: 300px;
   height: 100px;
 }
 
-.important:hover {
-  height: 200px;
-}
-
-.interesting:hover {
-  height: 200px;
-}
-
-.surprising:hover {
+div:hover {
   height: 200px;
 }
