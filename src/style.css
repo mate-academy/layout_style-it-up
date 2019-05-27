@@ -15,7 +15,6 @@ div:hover {
 
 #header {
   background-color: blue;
-  height: 100px;
 }
 
 .important {
@@ -32,5 +31,4 @@ div:hover {
 
 #footer {
   background-color: black;
-  height: 100px;
 }
