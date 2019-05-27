@@ -27,5 +27,5 @@ page. Place the blocks so that they are horizontally centered on the page.
 
 **Result**
 
-- [DEMO LINK](https://github.com/irenhh/layout_style-it-up/tree/gh-pages)
+- [DEMO LINK](https://irenhh.github.io/layout_style-it-up/)
 - [TEST REPORT LINK](https://irenhh.github.io/layout_style-it-up/report/html_report/)
