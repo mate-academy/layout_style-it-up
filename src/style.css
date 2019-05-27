@@ -1,0 +1,18 @@
+.important,
+.interesting,
+.surprising {
+  width: 300px;
+  height: 100px;
+}
+.important:hover,
+.interesting:hover,
+.surprising:hover {
+  width: 500px;
+}
+ #header {
+   color: blue;
+ }
+
+ #footer {
+   color: black
+ }
