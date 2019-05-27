@@ -1,0 +1,46 @@
+#header {
+  margin: auto;
+  background: #00f;
+  width: 300px;
+  height: 100px;
+}
+
+div:hover {
+  margin: auto;
+  width: 300px;
+  height: 200px;
+  background: #f00;
+}
+
+.important {
+  background: #f00;
+  margin: auto;
+  width: 300px;
+  height: 100px;
+}
+
+.surprising {
+  background: #ffa500;
+  margin: auto;
+  width: 300px;
+  height: 100px;
+}
+
+#footer {
+  background-color: black;
+  margin: auto;
+  width: 300px;
+  height: 100px;
+}
+
+.interesting {
+  background: green;
+  margin: auto;
+  width: 300px;
+  height: 100px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
