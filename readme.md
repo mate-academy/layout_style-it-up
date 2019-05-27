@@ -27,5 +27,5 @@ page. Place the blocks so that they are horizontally centered on the page.
 
 **Result**
 
-- [DEMO LINK](https://ivanvfedenko.github.io/layout_enclosures/)
-- [TEST REPORT LINK](https://ivanvfedenko.github.io/layout_enclosures/report/html_report/)
+- [DEMO LINK](https://ivanvfedenko.github.io/layout_style-it-up/)
+- [TEST REPORT LINK](https://ivanvfedenko.github.io/layout_style-it-up/report/html_report/)
