@@ -1,3 +1,8 @@
+**Result**
+
+- [DEMO LINK](https://tolyaruban.github.io/layout_style-it-up/)
+- [TEST REPORT LINK](https://tolyaruban.github.io/layout_style-it-up/report/html_report/)
+
 # Style it up
 
 Your task is to change `style.css` in order to get the page in `index.html` 
@@ -24,8 +29,3 @@ page. Place the blocks so that they are horizontally centered on the page.
 **Read the guideline before start**
 
 [Guideline](https://mate-academy.github.io/layout_task-guideline/)
-
-**Result**
-
-- [UPDATE DEMO LINK](https://<your_account>.github.io/<repo_name>/)
-- [UPDATE TEST REPORT LINK](https://<your_account>.github.io/<repo_name>/report/html_report/)
