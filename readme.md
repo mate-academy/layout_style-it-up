@@ -1,3 +1,7 @@
+### [Demo link](https://onefun1.github.io/layout_style-it-up/)
+
+### [Test report](https://onefun1.github.io/layout_style-it-up/report/html_report/)
+
 # Style it up
 
 Your task is to change `style.css` in order to get the page in `index.html` 
