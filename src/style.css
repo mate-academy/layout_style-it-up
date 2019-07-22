@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#header {
+  margin: 0 auto;
+  background: #00f;
+  width: 300px;
+  height: 100px;
+}
+
+#header:hover {
+  height: 200px;
+}
+
+.important {
+  margin: 0 auto;
+  background: #f00;
+  width: 300px;
+  height: 100px;
+}
+
+.important:hover {
+  height: 200px;
+}
+
+.interesting {
+  margin: 0 auto;
+  background: #008000;
+  width: 300px;
+  height: 100px;
+}
+
+.interesting:hover {
+  height: 200px;
+}
+
+.surprising {
+  margin: 0 auto;
+  background: #ffa500;
+  width: 300px;
+  height: 100px;
+}
+
+.surprising:hover {
+  height: 200px;
+}
+
+#footer {
+  margin: 0 auto;
+  background: #000;
+  width: 300px;
+  height: 100px;
+}
+
+#footer:hover {
+  height: 200px;
+}
