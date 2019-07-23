@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#header {
+  background: #00f;
+}
+
+.important {
+  background: #f00;
+}
+
+.interesting {
+  background: #080;
+}
+
+.surprising {
+  background: #ffa500;
+}
+
+#footer {
+  background: #000;
+}
+
+#header,
+#footer,
+.important,
+.interesting,
+.surprising {
+  height: 100px;
+}
+
+#header,
+#footer,
+.important,
+.interesting,
+.surprising {
+  width: 300px;
+  margin: 0 auto;
+}
+
+.important:hover {
+  height: 200px;
+}
+
+.interesting:hover {
+  height: 200px;
+}
+
+.surprising:hover {
+  height: 200px;
+}
