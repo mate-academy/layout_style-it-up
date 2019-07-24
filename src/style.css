@@ -2,13 +2,6 @@ body {
   margin: 0;
 }
 
-#header,
-#footer {
-  width: 300px;
-  height: 100px;
-  margin: 0 auto;
-}
-
 #header {
   background-color: blue;
 }
@@ -17,6 +10,8 @@ body {
   background-color: black;
 }
 
+#header,
+#footer,
 .important,
 .interesting,
 .surprising {
