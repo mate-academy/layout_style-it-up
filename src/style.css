@@ -3,33 +3,29 @@
   padding: 0;
 }
 
-#header {
+#footer,
+#header,
+.important,
+.interesting,
+.surprising {
   height: 100px;
   width: 300px;
   background-color: blue;
 }
 
 .important {
-  height: 100px;
-  width: 300px;
   background-color: red;
 }
 
 .interesting {
-  height: 100px;
-  width: 300px;
   background-color: green;
 }
 
 .surprising {
-  height: 100px;
-  width: 300px;
   background-color: orange;
 }
 
 #footer {
-  height: 100px;
-  width: 300px;
   background-color: black;
 }
 
