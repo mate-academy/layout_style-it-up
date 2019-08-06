@@ -3,17 +3,7 @@ body {
 }
 
 #header,
-#footer {
-  height: 100px;
-  width: 300px;
-  margin: auto;
-}
-
-#header:hover,
-#footer:hover {
-  height: 200px;
-}
-
+#footer,
 .important,
 .interesting,
 .surprising {
@@ -22,6 +12,8 @@ body {
   margin: auto;
 }
 
+#header:hover,
+#footer:hover,
 .important:hover,
 .interesting:hover,
 .surprising:hover {
