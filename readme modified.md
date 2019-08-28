@@ -1,0 +1,2 @@
+- [DEMO LINK](https://kostya-flern.github.io/layout_style-it-up/)
+- [TEST REPORT LINK](https://kostya-flern.github.io/layout_style-it-up/report/html_report/)
