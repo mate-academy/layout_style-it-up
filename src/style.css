@@ -2,13 +2,13 @@ body {
   margin: 0;
 }
 
-div:nth-child(n) {
+div {
   width: 300px;
   height: 100px;
   margin: 0 auto;
 }
 
-div:nth-child(n):hover {
+div:hover {
   height: 200px;
 }
 
