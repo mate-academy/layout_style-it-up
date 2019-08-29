@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+}
+
+#header {
+  width: 300px;
+  height: 100px;
+  margin: 0 auto;
+  background-color: blue;
+}
+
+.important {
+  width: 300px;
+  height: 100px;
+  margin: 0 auto;
+  background-color: red;
+}
+
+.interesting {
+  width: 300px;
+  height: 100px;
+  margin: 0 auto;
+  background-color: green;
+}
+
+.surprising {
+  width: 300px;
+  height: 100px;
+  margin: 0 auto;
+  background-color: orange;
+}
+
+#footer {
+  width: 300px;
+  height: 100px;
+  margin: 0 auto;
+  background-color: black;
+}
