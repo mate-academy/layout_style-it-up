@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+}
+
+#header {
+  background: blue;
+  width: 300px;
+  height: 100px;
+  margin: auto;
+}
+
+#header:hover {
+  height: 200px;
+}
+
+.important {
+  background: red;
+  width: 300px;
+  height: 100px;
+  margin: auto;
+}
+
+.important:hover {
+  height: 200px;
+}
+
+.interesting {
+  background: green;
+  width: 300px;
+  height: 100px;
+  margin: auto;
+}
+
+.interesting:hover {
+  height: 200px;
+}
+
+.surprising {
+  background: orange;
+  width: 300px;
+  height: 100px;
+  margin: auto;
+}
+
+.surprising:hover {
+  height: 200px;
+}
+
+#footer {
+  background: black;
+  width: 300px;
+  height: 100px;
+  margin: auto;
+}
+
+#footer:hover {
+  height: 200px;
+}
