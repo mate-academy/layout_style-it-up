@@ -2,56 +2,32 @@ body {
   margin: 0;
 }
 
-div {
+.box {
   margin: auto;
+  width: 300px;
+  height: 100px;
+}
+
+.box:hover {
+  height: 200px;
 }
 
 #header {
-  width: 300px;
-  height: 100px;
   background-color: blue;
 }
 
-#header:hover {
-  height: 200px;
-}
-
 .important {
-  width: 300px;
-  height: 100px;
   background-color: red;
 }
 
-.important:hover {
-  height: 200px;
-}
-
 .interesting {
-  width: 300px;
-  height: 100px;
   background-color: green;
 }
 
-.interesting:hover {
-  height: 200px;
-}
-
 .surprising {
-  width: 300px;
-  height: 100px;
   background-color: orange;
 }
 
-.surprising:hover {
-  height: 200px;
-}
-
 #footer {
-  width: 300px;
-  height: 100px;
   background-color: black;
-}
-
-#footer:hover {
-  height: 200px;
 }
