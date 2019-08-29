@@ -9,26 +9,19 @@ body {
 }
 
 .important {
-  width: 300px;
-  height: 100px;
   background-color: red;
 }
 
 .important:hover {
-  width: 300px;
   height: 200px;
   background-color: red;
 }
 
 .interesting {
-  width: 300px;
-  height: 100px;
   background-color: green;
 }
 
 .surprising {
-  width: 300px;
-  height: 100px;
   background-color: orange;
 }
 
@@ -36,6 +29,11 @@ body {
   width: 300px;
   height: 100px;
   background-color: black;
+}
+
+div[class] {
+  width: 300px;
+  height: 100px;
 }
 
 div {
