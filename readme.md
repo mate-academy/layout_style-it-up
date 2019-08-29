@@ -27,5 +27,5 @@ page. Place the blocks so that they are horizontally centered on the page.
 
 **Result**
 
-- [LINK](https://nikakarelets.github.io/fs_aug19_veronika/)
-- [TEST REPORT LINK](https://nikakarelets.github.io/fs_aug19_veronika/report/html_report/)
+- [LINK](https://nikakarelets.github.io/layout_style-it-up/)
+- [TEST REPORT LINK](https://nikakarelets.github.io/layout_style-it-up/report/html_report/)
