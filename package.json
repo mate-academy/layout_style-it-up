@@ -55,5 +55,8 @@
       "post-commit": "git update-index --again",
       "pre-commit": "lint-staged"
     }
+  },
+  "dependencies": {
+    "http-server": "^0.9.0"
   }
 }
