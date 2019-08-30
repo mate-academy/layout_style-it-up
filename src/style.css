@@ -28,6 +28,8 @@ body {
 .surprising,
 #footer {
   margin: auto;
+  width: 300px;
+  height: 100px;
 }
 
 #header:hover,
@@ -36,9 +38,4 @@ body {
 .surprising:hover,
 #footer:hover {
   height: 200px;
-}
-
-body > * {
-  width: 300px;
-  height: 100px;
 }
