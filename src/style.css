@@ -2,57 +2,40 @@ body {
   margin: 0;
 }
 
-#header {
-  margin: 0 auto;
-  width: 300px;
-  height: 100px;
-  background-color: blue;
-}
-
-#header:hover {
-  height: 200px;
-}
-
-#footer {
-  margin: 0 auto;
-  width: 300px;
-  height: 100px;
-  background-color: black;
-}
-
-#footer:hover {
-  height: 200px;
-}
-
-.important {
-  margin: 0 auto;
-  width: 300px;
-  height: 100px;
-  background-color: red;
-}
-
-.important:hover {
-  height: 200px;
-}
-
-.interesting {
-  margin: 0 auto;
-  width: 300px;
-  height: 100px;
-  background-color: green;
-}
-
-.interesting:hover {
-  height: 200px;
-}
-
+#header,
+#footer,
+.important,
+.interesting,
 .surprising {
   margin: 0 auto;
   width: 300px;
   height: 100px;
-  background-color: orange;
 }
 
+#header:hover,
+#footer:hover,
+.important:hover,
+.interesting:hover,
 .surprising:hover {
   height: 200px;
+}
+
+#header {
+  background-color: blue;
+}
+
+#footer {
+  background-color: black;
+}
+
+.important {
+  background-color: red;
+}
+
+.interesting {
+  background-color: green;
+}
+
+.surprising {
+  background-color: orange;
 }

@@ -27,6 +27,5 @@ page. Place the blocks so that they are horizontally centered on the page.
 
 **Result**
 
-- [UPDATE DEMO LINK](https://chepa17.github.io/layout_style-it-up/
-)
+- [UPDATE DEMO LINK](https://chepa17.github.io/layout_style-it-up/)
 - [UPDATE TEST REPORT LINK](https://chepa17.github.io/layout_style-it-up/report/html_report/)
