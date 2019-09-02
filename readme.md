@@ -28,4 +28,4 @@ page. Place the blocks so that they are horizontally centered on the page.
 **Result**
 
 - [DEMO LINK](https://havrylenkov.github.io/layout_style-it-up/)
-- [TEST REPORT LINK](https://havrylenkov.github.io/layout_style-it-up/report/html_report/)
+- [REPORT LINK](https://havrylenkov.github.io/layout_style-it-up/report/html_report/)
