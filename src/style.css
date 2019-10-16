@@ -2,32 +2,49 @@ body {
   margin: 0;
 }
 
-div {
+#header {
   height: 100px;
   width: 300px;
   margin: auto;
-}
-
-div:hover {
-  height: 200px;
-}
-
-#header {
   background-color: blue;
 }
 
 #footer {
+  margin: auto;
+  height: 100px;
+  width: 300px;
   background-color: black;
 }
 
 .important {
+  height: 100px;
+  width: 300px;
+  margin: auto;
   background-color: red;
 }
 
+.important:hover {
+  height: 200px;
+}
+
 .interesting {
+  height: 100px;
+  width: 300px;
+  margin: auto;
   background-color: green;
 }
 
+.interesting:hover {
+  height: 200px;
+}
+
 .surprising {
+  height: 100px;
+  width: 300px;
+  margin: auto;
   background-color: orange;
+}
+
+.surprising:hover {
+  height: 200px;
 }
