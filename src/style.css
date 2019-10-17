@@ -2,57 +2,40 @@ body {
   margin: 0;
 }
 
-#header {
-  background-color: blue;
+#header,
+#footer,
+.important,
+.interesting,
+.surprising {
   width: 300px;
   height: 100px;
   margin: 0 auto;
 }
 
-#header:hover {
+#header:hover,
+#footer:hover,
+.important:hover,
+.interesting:hover,
+.surprising:hover {
   height: 200px;
+}
+
+#header {
+  background-color: blue;
 }
 
 #footer {
   background-color: black;
-  width: 300px;
-  height: 100px;
-  margin: 0 auto;
-}
-
-#footer:hover {
-  height: 200px;
 }
 
 .important {
   background-color: red;
-  width: 300px;
-  height: 100px;
-  margin: 0 auto;
-}
-
-.important:hover {
-  height: 200px;
 }
 
 .interesting {
   background-color: green;
-  width: 300px;
-  height: 100px;
-  margin: 0 auto;
-}
-
-.interesting:hover {
-  height: 200px;
 }
 
 .surprising {
   background-color: orange;
-  width: 300px;
-  height: 100px;
-  margin: 0 auto;
-}
-
-.surprising:hover {
-  height: 200px;
 }
