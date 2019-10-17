@@ -2,22 +2,25 @@ body {
   margin: 0;
 }
 
-div {
+#header {
+  background-color: blue;
   height: 100px;
   width: 300px;
   margin: 0 auto;
 }
 
-#header {
-  background-color: blue;
-}
-
 #footer {
   background-color: #000;
+  height: 100px;
+  width: 300px;
+  margin: 0 auto;
 }
 
 .important {
   background-color: #f00;
+  height: 100px;
+  width: 300px;
+  margin: 0 auto;
 }
 
 .important:hover {
@@ -26,6 +29,9 @@ div {
 
 .interesting {
   background-color: green;
+  height: 100px;
+  width: 300px;
+  margin: 0 auto;
 }
 
 .interesting:hover {
@@ -34,6 +40,9 @@ div {
 
 .surprising {
   background-color: orange;
+  height: 100px;
+  width: 300px;
+  margin: 0 auto;
 }
 
 .surprising:hover {
