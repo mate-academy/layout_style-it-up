@@ -33,26 +33,10 @@ body {
   background-color: orange;
 }
 
-#header:hover {
-  height: 200px;
-  z-index: 2;
-}
-
-#footer:hover {
-  height: 200px;
-  z-index: 2;
-}
-
-.important:hover {
-  height: 200px;
-  z-index: 2;
-}
-
-.interesting:hover {
-  height: 200px;
-  z-index: 2;
-}
-
+#header:hover,
+#footer:hover,
+.important:hover,
+.interesting:hover,
 .surprising:hover {
   height: 200px;
   z-index: 2;
