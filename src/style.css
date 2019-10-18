@@ -12,11 +12,15 @@ body {
   margin: auto;
 }
 
-div:hover {
+#header:hover,
+.important:hover,
+.interesting:hover,
+.surprising:hover,
+#footer:hover {
   width: 200px;
 }
 
-body div:first-of-type {
+#header {
   background-color: blue;
 }
 
@@ -32,6 +36,6 @@ body div:first-of-type {
   background-color: orange;
 }
 
-body div:last-of-type {
+#footer {
   background-color: black;
 }
