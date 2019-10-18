@@ -1,20 +1,16 @@
-body {
-  margin: 0;
-}
-
-div {
+#header,
+#footer,
+.important,
+.interesting,
+.surprising {
   height: 100px;
   width: 300px;
   margin: 0 auto;
 }
 
-div:hover {
-  height: 200px;
-  z-index: 100;
-}
-
 #header {
   background-color: blue;
+  margin-top: -10px;
 }
 
 #footer {
@@ -31,4 +27,29 @@ div:hover {
 
 .surprising {
   background-color: orange;
+}
+
+#header:hover {
+  height: 200px;
+  z-index: 100;
+}
+
+#footer:hover {
+  height: 200px;
+  z-index: 100;
+}
+
+.important:hover {
+  height: 200px;
+  z-index: 100;
+}
+
+.interesting:hover {
+  height: 200px;
+  z-index: 100;
+}
+
+.surprising:hover {
+  height: 200px;
+  z-index: 100;
 }
