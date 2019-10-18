@@ -1,3 +1,7 @@
+body {
+  margin: 0;
+}
+
 #header,
 #footer,
 .important,
@@ -10,7 +14,7 @@
 
 #header {
   background-color: blue;
-  margin-top: -10px;
+
 }
 
 #footer {
