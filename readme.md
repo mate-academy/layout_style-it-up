@@ -1,7 +1,7 @@
 # Style it up
 1. Replace `<your_account>` with your Github username in the links
-    - [DEMO LINK](https://<your_account>.github.io/layout_style-it-up/) <br>
-    - [TEST REPORT LINK](https://<your_account>.github.io/layout_style-it-up/report/html_report/)
+    - [DEMO LINK](https://sashapylypyuk.github.io/layout_style-it-up/) <br>
+    - [TEST REPORT LINK](https://sashapylypyuk.github.io/layout_style-it-up/report/html_report/)
 2. Follow [this instructions](https://mate-academy.github.io/layout_task-guideline/)
 ___
 
@@ -13,7 +13,7 @@ Please **DO NOT** change `index.html` though. Change `style.css` so the page wor
 - The height of each of the blocks (including both header and footer) has to be 100px.
 - When hovered, the block height must increase to 200px.
 - Please use these colors:
-  - header is `blue`  
+  - header is `blue`
   - footer is `black`
   - important is `red`
   - interesting is `green`
