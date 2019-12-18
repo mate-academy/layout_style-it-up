@@ -13,7 +13,7 @@ Please **DO NOT** change `index.html` though. Change `style.css` so the page wor
 - The height of each of the blocks (including both header and footer) has to be 100px.
 - When hovered, the block height must increase to 200px.
 - Please use these colors:
-  - header is `blue`
+  - header is `blue`  
   - footer is `black`
   - important is `red`
   - interesting is `green`
