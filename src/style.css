@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+}
+
+.rise-box {
+  width: 300px;
+  height: 100px;
+  margin: auto;
+}
+
+.rise-box:hover {
+  height: 200px;
+}
+
+#header {
+  background-color: blue;
+  transition: height 1s;
+}
+
+#footer {
+  background-color: black;
+  transition: height 1s;
+}
+
+.important {
+  background-color: red;
+  transition: height 1s;
+}
+
+.interesting {
+  background-color: green;
+  transition: height 1s;
+}
+
+.surprising {
+  background-color: orange;
+  transition: height 1s;
+}
