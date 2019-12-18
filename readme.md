@@ -1,9 +1,9 @@
 # Style it up
 1. Replace `<your_account>` with your Github username in the links
-    - [DEMO LINK](https://<your_account>.github.io/layout_style-it-up/) <br>
-    - [TEST REPORT LINK](https://<your_account>.github.io/layout_style-it-up/report/html_report/)
+    - [DEMO LINK](https://LeonidShv.github.io/layout_style-it-up/) <br>
+    - [TEST REPORT LINK](https://LeonidShv.github.io/layout_style-it-up/report/html_report/)
 2. Follow [this instructions](https://mate-academy.github.io/layout_task-guideline/)
-___
+____
 
 ## The task
 Please **DO NOT** change `index.html` though. Change `style.css` so the page works as described below:
