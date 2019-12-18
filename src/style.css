@@ -2,7 +2,11 @@ body {
   margin: 0;
 }
 
-div {
+#header,
+#footer,
+.important,
+.interesting,
+.surprising {
   margin: 0 auto;
   width: 300px;
   height: 100px;
