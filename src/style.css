@@ -2,6 +2,16 @@ body {
   margin: 0;
 }
 
+div {
+  height: 100px;
+  width: 300px;
+  margin: auto;
+}
+
+div:hover {
+  height: 200px;
+}
+
 #header {
   background-color: blue;
 }
@@ -20,14 +30,4 @@ body {
 
 .surprising {
   background-color: orange;
-}
-
-div {
-  height: 100px;
-  width: 300px;
-  margin: auto;
-}
-
-div:hover {
-  height: 200px;
 }
