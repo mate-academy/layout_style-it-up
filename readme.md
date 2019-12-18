@@ -6,7 +6,7 @@
 ___
 
 ## The task
-Please **DO NOT** change `index.html` though. Change `style.css` so the page works as described below:
+Please **DO NOT** change `index.html` though. Change `style.css` so the page works as described below: 
 
 - The page consists of a header, a footer, and 9 blocks between them.
 - The width of the blocks must be 300px.
