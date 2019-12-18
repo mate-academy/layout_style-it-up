@@ -2,8 +2,11 @@ body {
   margin: 0;
 }
 
-[id],
-[class] {
+#header,
+#footer,
+.important,
+.interesting,
+.surprising {
   width: 300px;
   height: 100px;
   margin: 0 auto;
@@ -29,7 +32,10 @@ body {
   background-color: orange;
 }
 
-[id]:hover,
-[class]:hover {
+#header:hover,
+#footer:hover,
+.important:hover,
+.interesting:hover,
+.surprising:hover {
   height: 200px;
 }
