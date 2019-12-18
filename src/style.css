@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+}
+
+div {
+  height: 100px;
+  width: 300px;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+}
+
+div:hover {
+  height: 200px;
+}
+
+#header {
+  display: block;
+  background-color: blue;
+}
+
+#footer {
+  background-color: black;
+}
+
+.important {
+  background-color: red;
+}
+
+.interesting {
+  background-color: green;
+}
+
+.surprising {
+  background-color: orange;
+}
