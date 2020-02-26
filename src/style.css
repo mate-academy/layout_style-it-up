@@ -3,10 +3,6 @@ body {
 }
 
 #header {
-  width: 300px;
-  height: 100px;
-  margin-right: auto;
-  margin-left: auto;
   background-color: blue;
 }
 
@@ -15,11 +11,7 @@ body {
 }
 
 .important {
-  width: 300px;
-  height: 100px;
   background-color: red;
-  margin-right: auto;
-  margin-left: auto;
 }
 
 .important:hover {
@@ -27,10 +19,6 @@ body {
 }
 
 .interesting {
-  height: 100px;
-  width: 300px;
-  margin-right: auto;
-  margin-left: auto;
   background-color: green;
 }
 
@@ -39,10 +27,6 @@ body {
 }
 
 .surprising {
-  height: 100px;
-  width: 300px;
-  margin-right: auto;
-  margin-left: auto;
   background-color: orange;
 }
 
@@ -51,13 +35,20 @@ body {
 }
 
 #footer {
-  width: 300px;
-  height: 100px;
-  margin-right: auto;
-  margin-left: auto;
   background-color: black;
 }
 
 #footer:hover {
   height: 200px;
+}
+
+#header,
+.important,
+.interesting,
+.surprising,
+#footer {
+  width: 300px;
+  height: 100px;
+  margin-right: auto;
+  margin-left: auto;
 }
