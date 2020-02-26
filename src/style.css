@@ -8,10 +8,6 @@ div {
   background-color: grey;
 }
 
-/* div[class] {
-  width: 300px;
-} */
-
 div[class]:hover {
   height: 200px;
 }
