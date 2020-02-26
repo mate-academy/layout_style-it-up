@@ -18,7 +18,6 @@ body {
 #header:hover,
 #footer:hover {
   height: 200px;
-  margin: auto;
 }
 
 #header {
