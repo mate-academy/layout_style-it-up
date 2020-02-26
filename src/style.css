@@ -12,15 +12,15 @@ div:hover {
   height: 200px;
 }
 
-[class="important"] {
+.important {
   background-color: red;
 }
 
-[class="interesting"] {
+.interesting {
   background-color: green;
 }
 
-[class="surprising"] {
+.surprising {
   background-color: orange;
 }
 
