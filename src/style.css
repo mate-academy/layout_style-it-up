@@ -17,7 +17,7 @@ body {
 .surprising:hover,
 #header:hover,
 #footer:hover {
-  width: 200px;
+  height: 200px;
   margin: auto;
 }
 
