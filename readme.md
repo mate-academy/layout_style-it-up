@@ -2,7 +2,7 @@
 1. Replace `<your_account>` with your Github username in the links
     - [DEMO LINK](https://Andreas-Just.github.io/layout_style-it-up/) <br>
     - [TEST REPORT LINK](https://Andreas-Just.github.io/layout_style-it-up/report/html_report/)
-    - [PULL REQUEST](https://github.com/mate-academy/layout_enclosures/pull/328/files)
+    - [PULL REQUEST](https://github.com/mate-academy/layout_style-it-up/pull/319)
 2. Follow [this instructions](https://mate-academy.github.io/layout_task-guideline/)
 ___
 
