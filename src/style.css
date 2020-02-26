@@ -11,8 +11,6 @@ div {
 
 #header {
   background: blue;
-  background-attachment: scroll;
-  background-clip: border-box;
 }
 
 #footer {
