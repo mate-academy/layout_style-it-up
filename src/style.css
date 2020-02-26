@@ -20,12 +20,12 @@ div:hover {
   background-color: black;
 }
 
-.important {
-  background-color: red;
-}
-
 .interesting {
   background-color: green;
+}
+
+.important {
+  background-color: red;
 }
 
 .surprising {
