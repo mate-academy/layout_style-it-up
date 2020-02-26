@@ -16,7 +16,11 @@ body {
   background-color: blue;
 }
 
-#header:hover {
+#header:hover,
+#footer:hover,
+.important:hover,
+.interesting:hover,
+.surprising:hover {
   height: 200px;
 }
 
@@ -24,30 +28,14 @@ body {
   background-color: black;
 }
 
-#footer:hover {
-  height: 200px;
-}
-
 .important {
   background-color: red;
-}
-
-.important:hover {
-  height: 200px;
 }
 
 .interesting {
   background-color: green;
 }
 
-.interesting:hover {
-  height: 200px;
-}
-
 .surprising {
   background-color: orange;
-}
-
-.surprising:hover {
-  height: 200px;
 }
