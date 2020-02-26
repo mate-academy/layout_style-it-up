@@ -8,6 +8,10 @@ div {
   margin: auto;
 }
 
+div:hover {
+  height: 200px;
+}
+
 #header {
   background-color: blue;
 }
@@ -26,16 +30,4 @@ div {
 
 #footer {
   background-color: black;
-}
-
-.important:hover {
-  height: 200px;
-}
-
-.interesting:hover {
-  height: 200px;
-}
-
-.surprising:hover {
-  height: 200px;
 }
