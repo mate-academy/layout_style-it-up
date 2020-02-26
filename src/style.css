@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+}
+
+#header {
+  width: 300px;
+  height: 100px;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: blue;
+}
+
+#header:hover {
+  height: 200px;
+}
+
+.important {
+  width: 300px;
+  height: 100px;
+  background-color: red;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.important:hover {
+  height: 200px;
+}
+
+.interesting {
+  height: 100px;
+  width: 300px;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: green;
+}
+
+.interesting:hover {
+  height: 200px;
+}
+
+.surprising {
+  height: 100px;
+  width: 300px;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: orange;
+}
+
+.surprising:hover {
+  height: 200px;
+}
+
+#footer {
+  width: 300px;
+  height: 100px;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: black;
+}
+
+#footer:hover {
+  height: 200px;
+}
