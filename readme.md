@@ -27,5 +27,5 @@ page. Place the blocks so that they are horizontally centered on the page.
 
 **Result**
 
-- [UPDATE DEMO LINK](https://olenazubashenko.github.io/<repo_name>/)
-- [UPDATE TEST REPORT LINK](https://olenazubashenko.github.io/<repo_name>/report/html_report/)
+- [UPDATE DEMO LINK](https://olenazubashenko.github.io/layout_style-it-up/)
+- [UPDATE TEST REPORT LINK](https://olenazubashenko.github.io/olenazubashenko/report/html_report/)
