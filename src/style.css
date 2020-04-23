@@ -1,12 +1,11 @@
 body {
   margin: 0;
-  padding: 0;
 }
 
 div {
+  margin: 0 auto;
   width: 300px;
   height: 100px;
-  margin: auto;
 }
 
 div:hover {
