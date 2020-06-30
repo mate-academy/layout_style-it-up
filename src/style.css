@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+}
+
+.important,
+.interesting,
+.surprising,
+div:last-child,
+div:first-child {
+  width: 300px;
+  height: 100px;
+  margin: auto;
+}
+
+div:first-child {
+  background-color: blue;
+}
+
+div:last-child {
+  background-color: black;
+}
+
+.important {
+  background-color: red;
+}
+
+.interesting {
+  background-color: green;
+}
+
+.surprising {
+  background-color: orange;
+}
+
+.important:hover,
+.interesting:hover,
+.surprising:hover,
+div:last-child:hover,
+div:first-child:hover {
+  height: 200px;
+}
