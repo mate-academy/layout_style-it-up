@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+}
+
+.block-posit-center {
+  width: 300px;
+  height: 100px;
+  margin: auto;
+}
+
+.block-posit-center:hover {
+  height: 200px;
+}
+
+#header {
+  background-color: blue;
+}
+
+#footer {
+  background-color: black;
+}
+
+.important {
+  background-color: red;
+}
+
+.interesting {
+  background-color: green;
+}
+
+.surprising {
+  background-color: orange;
+}
