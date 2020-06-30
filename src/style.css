@@ -1,15 +1,14 @@
 body {
   margin: 0;
-  padding: 0;
 }
 
-div {
+.block-posit-center {
   width: 300px;
   height: 100px;
   margin: auto;
 }
 
-div:hover {
+.block-posit-center:hover {
   height: 200px;
 }
 
