@@ -8,11 +8,11 @@ body {
   margin: 0 auto;
 }
 
-#header {
+.header {
   background-color: blue;
 }
 
-#footer {
+.footer {
   background-color: black;
 }
 
