@@ -1,34 +1,33 @@
-* {
+body {
   margin: 0;
-  padding: 0;
 }
 
-div {
+.block {
   height: 100px;
   width: 300px;
   margin: 0 auto;
 }
 
-div:hover {
+.block:hover {
   transform: scaleY(2);
 }
 
 #header {
-  background: blue;
+  background-color: blue;
 }
 
 #footer {
-  background: black;
+  background-color: black;
 }
 
 .important {
-  background: red;
+  background-color: red;
 }
 
 .interesting {
-  background: green;
+  background-color: green;
 }
 
 .surprising {
-  background: orange;
+  background-color: orange;
 }
