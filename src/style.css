@@ -5,8 +5,11 @@ body {
 div {
   width: 300px;
   height: 100px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
+}
+
+div:hover {
+  height: 200px;
 }
 
 #header {
@@ -23,12 +26,6 @@ div {
 
 .surprising {
   background-color: orange;
-}
-
-.important:hover,
-.interesting:hover,
-.surprising:hover {
-  height: 200px;
 }
 
 #footer {
