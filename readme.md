@@ -1,7 +1,7 @@
 # Style it up
-1. Replace `<your_account>` with your Github username in the links
-    - [DEMO LINK](https://<your_account>.github.io/layout_style-it-up/) <br>
-    - [TEST REPORT LINK](https://<your_account>.github.io/layout_style-it-up/report/html_report/)
+1. Replace `zarva6596` with your Github username in the links
+    - [DEMO LINK](https://zarva6596.github.io/layout_style-it-up/) <br>
+    - [TEST REPORT LINK](https://zarva6596.github.io/layout_style-it-up/report/html_report/)
 2. Follow [this instructions](https://mate-academy.github.io/layout_task-guideline/)
 ___
 
