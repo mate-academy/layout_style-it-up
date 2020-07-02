@@ -2,14 +2,14 @@ body {
   margin: 0;
 }
 
-.important,
-.interesting,
-.surprising,
-#header,
-#footer {
+.box {
   height: 100px;
   width: 300px;
   margin: auto;
+}
+
+.box:hover {
+  height: 200px;
 }
 
 #header {
@@ -30,12 +30,4 @@ body {
 
 .surprising {
   background-color: orange;
-}
-
-.important:hover,
-.interesting:hover,
-.surprising:hover,
-#header:hover,
-#footer:hover {
-  height: 200px;
 }
