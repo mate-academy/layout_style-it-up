@@ -1,13 +1,12 @@
 body {
   margin: 0;
-  width: 100%;
-  text-align: center;
 }
 
 div {
   width: 300px;
   height: 100px;
-  margin-left: calc(50% - 150px);
+  margin: 0 auto;
+  /* margin-left: calc(50% - 150px); */
 }
 
 div:hover {
