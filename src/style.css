@@ -1,1 +1,36 @@
-/* write your styles here */
+body {
+  margin: 0;
+}
+
+div {
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  height: 100px;
+}
+
+div:hover {
+  height: 200px;
+}
+
+#header {
+  background-color: blue;
+}
+
+div.important {
+  background: red;
+}
+
+div.interesting {
+  background-color: green;
+}
+
+div.surprising {
+  background: orange;
+}
+
+#footer {
+  background: black;
+}
