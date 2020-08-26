@@ -2,13 +2,13 @@ body {
   margin: 0 ;
 }
 
-div {
+.block {
   height: 100px;
   width: 300px;
   margin: 0 auto;
 }
 
-div:hover {
+.block:hover {
   height: 200px;
 }
 
