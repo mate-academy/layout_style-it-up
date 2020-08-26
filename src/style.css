@@ -1,1 +1,39 @@
-/* write your styles here */
+body {
+  margin: 0;
+}
+
+#header {
+  background-color: blue;
+}
+
+.important {
+  background-color: red;
+}
+
+.interesting {
+  background-color: green;
+}
+
+.surprising {
+  background-color: orange;
+}
+
+#footer {
+  background-color: black;
+}
+
+#header,
+.important,
+.interesting,
+.surprising,
+#footer {
+  margin: 0 auto;
+  height: 100px;
+  width: 300px;
+}
+
+.important:hover,
+.interesting:hover,
+.surprising:hover {
+  height: 200px;
+}
