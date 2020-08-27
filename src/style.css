@@ -14,11 +14,11 @@ div:hover {
   height: 200px;
 }
 
-div#header {
+#header {
   background-color: blue;
 }
 
-div#footer {
+#footer {
   background-color: black;
 }
 
