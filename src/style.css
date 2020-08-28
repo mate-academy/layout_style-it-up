@@ -1,1 +1,34 @@
-/* write your styles here */
+body {
+  margin: 0;
+}
+
+div {
+  width: 300px;
+  height: 100px;
+  margin: auto;
+  border: none;
+}
+
+div:hover {
+  transform: scaleY(2);
+}
+
+#footer {
+  background: black;
+}
+
+#header {
+  background: blue;
+}
+
+.important {
+  background: red;
+}
+
+.interesting {
+  background: green;
+}
+
+.surprising {
+  background: orange;
+}
