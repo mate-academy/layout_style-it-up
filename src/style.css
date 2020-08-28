@@ -1,30 +1,38 @@
+body {
+  margin: 0;
+}
+
 div {
   width: 300px;
   height: 100px;
   padding: 0;
-  text-align: center;
+  margin: 0 auto;
 }
 
 div:hover {
   height: 200px;
 }
 
-div.header {
-  color: blue;
+#header {
+  background-color: blue;
 }
 
-div.footer {
-  color: black;
+#footer {
+  background-color: black;
 }
 
-div.important {
-  color: red;
+.important {
+  background-color: red;
 }
 
-div.interesting {
-  color: green;
+.interesting {
+  background-color: green;
 }
 
-div.surprising {
-  color: orange;
+.surprising {
+  background-color: orange;
+}
+
+.center {
+  margin: 0 auto;
 }
