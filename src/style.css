@@ -1,1 +1,30 @@
-/* write your styles here */
+div {
+  width: 300px;
+  height: 100px;
+  padding: 0;
+  text-align: center;
+}
+
+div:hover {
+  height: 200px;
+}
+
+div.header {
+  color: blue;
+}
+
+div.footer {
+  color: black;
+}
+
+div.important {
+  color: red;
+}
+
+div.interesting {
+  color: green;
+}
+
+div.surprising {
+  color: orange;
+}
