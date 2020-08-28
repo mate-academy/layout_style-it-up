@@ -14,14 +14,6 @@ body {
   transition: 0.3s;
 }
 
-.important:hover,
-.interesting:hover,
-.surprising:hover,
-#header:hover,
-#footer:hover {
-  height: 200px;
-}
-
 #header {
   background-color: blue;
 }
@@ -40,4 +32,12 @@ body {
 
 .surprising {
   background-color: orange;
+}
+
+.important:hover,
+.interesting:hover,
+.surprising:hover,
+#header:hover,
+#footer:hover {
+  height: 200px;
 }
