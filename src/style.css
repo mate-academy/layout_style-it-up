@@ -1,17 +1,18 @@
 /* write your styles here */
-
 body {
   display: block;
   margin: 0;
-  padding: 0;
-  
 }
 
-body div {
+#header,
+.important,
+.interesting,
+.surprising,
+#footer {
   height: 100px;
   width: 300px;
   position: relative;
-  left: 35%;
+  margin: auto;
 }
 
 #header {
