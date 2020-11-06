@@ -1,1 +1,33 @@
-/* write your styles here */
+.all {
+  margin: 0;
+}
+
+.all > * {
+  width: 300px;
+  height: 100px;
+  margin: 0 auto;
+}
+
+.all > *:hover {
+  height: 200px;
+}
+
+.top {
+  background-color: blue;
+}
+
+.bottom {
+  background-color: black;
+}
+
+.important {
+  background-color: red;
+}
+
+.interesting {
+  background-color: green;
+}
+
+.surprising {
+  background-color: orange;
+}
