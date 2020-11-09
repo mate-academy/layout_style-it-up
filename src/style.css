@@ -1,16 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
   margin: 0;
 }
 
-div {
+.block {
   width: 300px;
   height: 100px;
   margin: 0 auto;
 }
 
-div :hover {
+.block:hover:hover {
   height: 200px;
-  
+
 }
 
 #header {
