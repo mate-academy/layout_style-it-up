@@ -1,12 +1,16 @@
 /* write your styles here */
-* {
+body {
+  margin: 0;
+}
+
+#header,
+#footer,
+.important,
+.interesting,
+.surprising {
   width: 300px;
   height: 100px;
   margin: 0 auto;
-}
-
-*:hover {
-  height: 200px;
 }
 
 #header {
@@ -27,4 +31,12 @@
 
 .surprising {
   background-color: orange;
+}
+
+#header:hover,
+#footer:hover,
+.important:hover,
+.interesting:hover,
+.surprising:hover {
+  height: 200px;
 }
