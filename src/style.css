@@ -23,13 +23,13 @@ body {
   background-color: black;
 }
 
-body > div {
+div {
   height: 100px;
   width: 300px;
   margin-right: auto;
   margin-left: auto;
 }
 
-body > div:hover {
+div:hover {
   height: 200px;
 }
