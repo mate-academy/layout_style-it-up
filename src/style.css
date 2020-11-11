@@ -9,6 +9,10 @@ body div {
   width: 300px;
 }
 
+body div:hover {
+  height: 200px;
+}
+
 #header {
   background-color: blue;
 }
