@@ -2,14 +2,14 @@ body {
   margin: 0;
 }
 
-body div {
+body > div {
   margin-left: auto;
   margin-right: auto;
   height: 100px;
   width: 300px;
 }
 
-body div:hover {
+body > div:hover {
   height: 200px;
 }
 
