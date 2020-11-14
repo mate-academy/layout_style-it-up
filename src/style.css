@@ -2,13 +2,13 @@ body {
   margin: 0 auto;
 }
 
-body div {
+div {
   margin: 0 auto;
   width: 300px;
   height: 100px;
 }
 
-body div:hover {
+div:hover {
   height: 200px;
 }
 
